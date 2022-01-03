@@ -1,9 +1,13 @@
 
 <div align="center">
   <a href="https://github.com/elton-aq">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elton-aq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elton-aq&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elton-aq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elton-aq&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+##
+---
+##
 
 <div align="center"> 
   <a href = "mailto:eltonaquino140@gmail.com"><img height="46" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank"></a>
