@@ -12,6 +12,6 @@
   <a href="https://www.linkedin.com/in/elton-aq" target="_blank"><img height="45" width="45" src="https://external-content.duckduckgo.com/ip3/br.linkedin.com.ico" target="_blank"></a> 
   <a href="https://instagram.com/elton_aq" target="_blank"><img height="42" width="42" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/100px-Instagram_logo_2016.svg.png" target="_blank"></a>
   
-  ![Snake animation](https://github.com/elton_aq/elton_aq/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/elton-aq/elton-aq/blob/output/github-contribution-grid-snake.svg)
  
 </div>
